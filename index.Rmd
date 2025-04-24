@@ -80,6 +80,11 @@ class: inverse
 
 ---
 
+background-image: url("images/top-four.png")
+background-size: cover
+
+---
+
 ## .center[Chinese firms dominate EV and solar industries]
 
 .leftcol[
