@@ -22,7 +22,12 @@ output:
 
 ---
 
-background-image: url("images/top-four.png")
+background-image: url("images/top-four-1.png")
+background-size: cover
+
+---
+
+background-image: url("images/top-four-2.png")
 background-size: cover
 
 ---
