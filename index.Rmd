@@ -1,8 +1,5 @@
 ---
-title: "The American EV Transition:<br>Looking Ahead While Lagging Behind"
-author: "John Paul Helveston"
-date: May 08, 2025
-institute: "The George Washington University | Dept. of Engineering Management and Systems Engineering"
+title: "&nbsp;"
 output:
   xaringan::moon_reader:
     css:
@@ -15,87 +12,18 @@ output:
       highlightLines: true
       countIncrementalSlides: false
       ratio: "16:9"
-    seal: false
+    seal: true
 ---
 
-```{r setup, include=FALSE}
-library(knitr)
-library(fontawesome)
-library(metathis)
-
-options(
-    htmltools.dir.version = FALSE,
-    knitr.table.format = "html",
-    knitr.kable.NA = '',
-    dplyr.width = Inf,
-    width = 250
-)
-knitr::opts_chunk$set(
-    warning = FALSE,
-    message = FALSE,
-    fig.path = "figs/",
-    fig.width = 7.252,
-    fig.height = 4,
-    comment = "#>",
-    fig.retina = 3
-)
-
-# Setup xaringanExtra options
-xaringanExtra::use_xaringan_extra(c(
-  "tile_view", "panelset", "share_again"))
-xaringanExtra::style_share_again(share_buttons = "none")
-xaringanExtra::use_extra_styles(
-  hover_code_line = TRUE,
-  mute_unhighlighted_code = FALSE
-)
-
-# Set up website metadata
-meta() %>%
-  meta_general(
-    description = rmarkdown::metadata$subtitle,
-    generator = "xaringan and remark.js"
-  ) %>%
-  meta_name("github-repo" = "jhelvy/slides") %>%
-  meta_social(
-    title = rmarkdown::metadata$title,
-    url = "https://slides.jhelvy.com",
-    og_type = "website",
-    og_author = "John Paul Helveston",
-    twitter_card_type = "summary_large_image",
-    twitter_creator = "@johnhelveston"
-  )
+```{r, child="setup.Rmd"}
 ```
 
-background-image: url("images/blue.jpg")
-background-size: cover
-class: inverse
-
-<br><br><br><br>
-
-## `r rmarkdown::metadata$title`
-
-**.white[John Paul Helveston]**, George Washington University
-
-`r rmarkdown::metadata$date`
+# Text
 
 ---
 
 background-image: url("images/top-four.png")
 background-size: cover
-
----
-
-# .center[**Bipartisan goal**: The US needs to counter China's lead in clean energy tech]
-
-<br>
-
---
-
-## **Keep Chinese clean tech out of US market**: Steep tariffs on imported Chinese EVs, batteries, PV modules
-
---
-
-## **Keep Chinese firms out of US clean tech supply chains**: IRA restrictions on EV subsidy elligiblity, unclear guidance on Foreign Entities of Concern (FEOC) rules
 
 ---
 
