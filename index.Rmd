@@ -18,21 +18,23 @@ output:
 ```{r, child="setup.Rmd"}
 ```
 
-# Text
+---
+
+# .center[**Bipartisan goal**: The US needs to counter China's lead in clean energy tech]
+
+<br>
+
+--
+
+## **Keep Chinese clean tech out of US market**: Steep tariffs on imported Chinese EVs, batteries, PV modules
+
+--
+
+## **Keep Chinese firms out of US clean tech supply chains**: IRA restrictions on EV subsidy elligiblity, unclear guidance on Foreign Entities of Concern (FEOC) rules
 
 ---
 
-background-image: url("images/top-four-1.png")
-background-size: cover
-
----
-
-background-image: url("images/top-four-2.png")
-background-size: cover
-
----
-
-# .center[Countering China & Investing in Manufacturing]
+# .center[Countering China by Investing in Manufacturing]
 
 <br>
 
@@ -40,7 +42,7 @@ background-size: cover
 
 --
 
-## To what extent are counter-China policies helping or harming the clean tech manufacturing goal?
+## **To what extent are counter-China policies helping or harming the clean tech manufacturing goal?**
 
 ---
 
@@ -65,17 +67,169 @@ background-color: #fff
 ---
 
 class: center
-background-color: #fff
 
-## EV sector has an affordability problem (except in China)
-
-.font70[Price gap between the sales-weighted average price of BEV and ICEV, before subsidy, by size, in 2018 and 2022]
+.leftcol70[
 
 <center>
-<img src="images/ev-affordability.png" width=89%>
+<img src="images/ev-price-slope-edit.png" width=100%>
 </center>
 
-.font70[Source: IEA, https://www.iea.org/reports/global-ev-outlook-2024/executive-summary]
+.font70[Source: https://www.iea.org/reports/global-ev-outlook-2024/executive-summary]
+
+]
+
+.rightcol30[
+
+### The EV sector has an affordability problem<br>(except in China)
+
+]
+
+---
+
+class: center
+
+.leftcol70[
+
+<center>
+<img src="images/range-price-us-china-2024.png" width=100%>
+</center>
+
+.font70[Source: https://www.iea.org/reports/global-ev-outlook-2024/executive-summary]
+
+]
+
+.rightcol30[
+
+### China offers more affordable BEVs across all range categories
+
+]
+
+---
+
+class: center
+background-color: #fff
+
+## BEVs Concentrated in High-Price Segments in US
+
+<br>
+
+**Only 1.8% of new and 0.4% of used listings under $45,000 were BEVs in 2024**
+
+<center>
+<img src="images/bev_percent_listings_edit.png" width=100%>
+</center>
+
+.font80[Data pulled from ~80k dealerships, 2016 to 2024. Source: marketcheck.com]
+
+---
+
+class: center
+background-color: #fff
+
+# The BEV Deserts of America
+
+<center>
+<img src="images/burden_map_25k.png" width=100%>
+</center>
+
+---
+
+# Things that don't help affordability:
+
+<br>
+
+--
+
+## Tariffs (100% tariff on imported Chinese EVs since 05/2024)
+
+--
+
+<br>
+
+## Effectively banning the use of Chinese suppliers 
+
+--
+
+<br>
+
+## Inflation (see tariffs)
+
+---
+
+## .center[**Opportunities**]
+
+.leftcol[
+
+## Chinese FDI into U.S.
+
+### **Gotion batteries**: Multi-billion dollar investments in Illinois and Michigan
+
+### **Challenge**: Uncertainty around Foreign Entities of Concern (FEOC) status
+
+]
+
+--
+
+.rightcol[
+
+## Technology Licensing Agreements
+
+### **Ford-CATL**: Licensing battery technology in a Michigan plant
+
+### **Challenge**: CATL was recently added to DOD's list of “Chinese military companies”
+
+]
+
+---
+
+class: middle, center, inverse
+
+# The biggest competitor<br>to an American EV<br>is not a Chinese EV...<br><br>...it's a gas car
+
+---
+
+background-image: url("images/top-four-1.png")
+background-size: cover
+
+---
+
+background-image: url("images/top-four-2.png")
+background-size: cover
+
+---
+
+class: inverse 
+background-image: url("images/blue.jpg")
+background-size: cover
+
+<br>
+
+# Thanks!
+
+<br>
+
+### <span class="white-text">https://jhelvy.github.io/2025-ucsd-us-china</span>
+
+<style>
+.white-text a {
+  color: white !important;
+}
+</style>
+
+.footer-large[.white[.right[
+
+@jhelvy.bsky.social `r fa(name = "bluesky", fill = "white")`<br>
+@jhelvy `r fa(name = "github", fill = "white")`<br>
+jhelvy.com `r fa(name = "link", fill = "white")`<br>
+jph@gwu.edu `r fa(name = "paper-plane", fill = "white")`
+
+]]]
+
+---
+
+class: inverse, middle, center
+
+# Extra Slides
 
 ---
 
@@ -94,79 +248,3 @@ background-color: #fff
 ### .center[Used market is more affordable, but post-COVID prices are up in all markets, not just EVs]
 
 ]
-
----
-
-class: center
-background-color: #fff
-
-# There are still affordable EV deserts
-
-<center>
-<img src="images/burden_map_25k.png" width=100%>
-</center>
-
----
-
-# Things that don't help affordability:
-
-<br>
-
---
-
-## 100% tariff on imported Chinese EVs 
-
---
-
-## Effectively banning the use of Chinese suppliers (inc. raw materials) in US EVs
-
---
-
-## Inflation
-
----
-
-## Chinese FDI into U.S.
-
-### **Gotion batteries**: Multi-billion dollar investments in Illinois and Michigan
-
-### Challenge: Uncertainty around Foreign Entities of Concern (FEOC) status
-
---
-
-<br>
-
-## Technology Licensing Agreements
-
-### **Ford-CATL**: Licensing battery technology in a Michigan plant
-
-### Challenge: CATL was recently added to DOD's list of “Chinese military companies”
-
----
-
-class: middle, center, inverse
-
-# The biggest competitor to an EV<br>is not a Chinese EV,<br>it's gas cars
-
----
-
-class: inverse 
-background-image: url("images/blue.jpg")
-background-size: cover
-
-<br>
-
-# Thanks!
-
-<br>
-
-### slides.jhelvy.com/2025-princeton-industrial-policy
-
-.footer-large[.white[.right[
-
-@jhelvy.bsky.social `r fa(name = "bluesky", fill = "white")`<br>
-@jhelvy `r fa(name = "github", fill = "white")`<br>
-jhelvy.com `r fa(name = "link", fill = "white")`<br>
-jph@gwu.edu `r fa(name = "paper-plane", fill = "white")`
-
-]]]
