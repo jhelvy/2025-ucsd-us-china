@@ -116,7 +116,7 @@ background-color: #fff
 **Only 1.8% of new and 0.4% of used listings under $45,000 were BEVs in 2024**
 
 <center>
-<img src="images/bev_percent_listings_edit.png" width=100%>
+<img src="images/bev_percent_listings.png" width=100%>
 </center>
 
 .font80[Data pulled from ~80k dealerships, 2016 to 2024. Source: marketcheck.com]
