@@ -140,60 +140,6 @@ Data scraped from autocango.com (China) and carsheet.io (USA)
 
 ---
 
-
----
-
-
----
-
-# Things that don't help affordability:
-
-<br>
-
---
-
-## Tariffs (100% tariff on imported Chinese EVs since 05/2024)
-
---
-
-<br>
-
-## Effectively banning the use of Chinese suppliers 
-
---
-
-<br>
-
-## Inflation (see tariffs)
-
----
-
-## .center[**Opportunities**]
-
-.leftcol[
-
-## Chinese FDI into U.S.
-
-### **Gotion batteries**: Multi-billion dollar investments in Illinois and Michigan
-
-### **Challenge**: Uncertainty around Foreign Entities of Concern (FEOC) status
-
-]
-
---
-
-.rightcol[
-
-## Technology Licensing Agreements
-
-### **Ford-CATL**: Licensing battery technology in a Michigan plant
-
-### **Challenge**: CATL was recently added to DOD's list of “Chinese military companies”
-
-]
-
----
-
 class: middle, center, inverse
 
 # The biggest competitor<br>to an American EV<br>is not a Chinese EV...<br><br>...it's a gas car
@@ -207,6 +153,41 @@ background-size: cover
 
 background-image: url("images/top-four-2.png")
 background-size: cover
+
+---
+
+# Strategic Implications
+
+<br>
+
+### **Global Market Share Erosion**: U.S. autos will not be competitive abroad without affordable EVs
+
+<br>
+
+### **Trade Imbalance**: U.S. could go from net vehicle _exporter_ to _importer_ 
+
+### (U.S. exported $15B in vehicles and parts to Canada in 2024 🇨🇦)
+
+<br>
+
+### **Exployment Impacts**:  U.S. auto employs 10.1 million Americans, $730B in annual paychecks
+
+---
+
+# Strategic Response Options
+
+<br>
+
+### **North American Integration**: Create sufficient scale with Canada and Mexico partnerships 🇨🇦🇲🇽
+
+### **Sustained Policy Support**: Maintain IRA incentives during transition
+
+### **Battery Manufacturing Focus**: Prioritize domestic production
+### (Platform for commercializing next-gen US technologies)
+
+### **Targeted Innovation**: Leverage R&D strengths in breakthrough areas
+
+### **Strategic Chinese Partnerships**: Form tech relationships for market access, e.g. licensing agreements and FDI
 
 ---
 
