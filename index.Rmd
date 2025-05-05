@@ -15,34 +15,35 @@ output:
     seal: true
 ---
 
+<style>
+.tab {
+    display: inline-block;
+    margin-left: 8em;
+}
+</style>
+
 ```{r, child="setup.Rmd"}
 ```
 
 ---
 
-# .center[**Bipartisan goal**: The US needs to counter China's lead in clean energy tech]
+# .center[China is posting some impressive EV numbers]
 
 <br>
 
 --
 
-## **Keep Chinese clean tech out of US market**: Steep tariffs on imported Chinese EVs, batteries, PV modules
+### PEV sales (BEV + PHEV): **1.37 M (2020) --> 12.9 M (2024)**
+
+<div><span class="tab"><span class="tab"><span class="tab"></span>&nbsp;&nbsp;&nbsp;(46.7% of sales)</div>
 
 --
-
-## **Keep Chinese firms out of US clean tech supply chains**: IRA restrictions on EV subsidy elligiblity, unclear guidance on Foreign Entities of Concern (FEOC) rules
-
----
-
-# .center[Countering China by Investing in Manufacturing]
 
 <br>
 
-## **IRA Strategy**: Investing in *manufacturing* will lead to enduring support for clean tech through local jobs & economic benefits
+### PEV exports (BEV + PHEV): **0.2 M (2020) --> 1.28 M (2024)**
 
---
-
-## **To what extent are counter-China policies helping or harming the clean tech manufacturing goal?**
+<div><span class="tab"><span class="tab"><span class="tab"></span>&nbsp;&nbsp;&nbsp;(25% of vehicle exports)</div>
 
 ---
 
@@ -87,6 +88,23 @@ class: center
 ---
 
 class: center
+background-color: #fff
+
+## BEVs Concentrated in High-Price Segments in US
+
+<br>
+
+**In 2024, only 2.2% of new and 3.6% of used listings under $45,000 were BEVs**
+
+<center>
+<img src="images/bev_percent_listings.png" width=100%>
+</center>
+
+.font80[Data pulled from ~80k dealerships, 2016 to 2024. Source: marketcheck.com]
+
+---
+
+class: center
 
 ### China offers more affordable BEVs across all range categories
 
@@ -122,31 +140,9 @@ Data scraped from autocango.com (China) and carsheet.io (USA)
 
 ---
 
-class: center
-background-color: #fff
-
-## BEVs Concentrated in High-Price Segments in US
-
-<br>
-
-**Only 1.8% of new and 0.4% of used listings under $45,000 were BEVs in 2024**
-
-<center>
-<img src="images/bev_percent_listings.png" width=100%>
-</center>
-
-.font80[Data pulled from ~80k dealerships, 2016 to 2024. Source: marketcheck.com]
 
 ---
 
-class: center
-background-color: #fff
-
-# The BEV Deserts of America
-
-<center>
-<img src="images/burden_map_25k.png" width=100%>
-</center>
 
 ---
 
@@ -264,3 +260,14 @@ class: inverse, middle, center
 ### .center[Used market is more affordable, but post-COVID prices are up in all markets, not just EVs]
 
 ]
+
+---
+
+class: center
+background-color: #fff
+
+# The BEV Deserts of America
+
+<center>
+<img src="images/burden_map_25k.png" width=100%>
+</center>
